@@ -1,4 +1,0 @@
-pairs:
-  GT : geumtaek
-  JH : jjunho
-  SH : sanghhuk
